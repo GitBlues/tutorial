@@ -22,5 +22,5 @@ e10adc3949ba59abbe56e057f20f883e
 e10adc3949ba59abbe56e057f20f883e
 
 
-DEBUG o.s.d.r.core.RedisConnectionUtils - Opening RedisConnection
+猴子都会得GIT，正在学习基础知识
 
