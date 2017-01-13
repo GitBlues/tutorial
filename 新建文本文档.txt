@@ -1,0 +1,26 @@
+点击取消清空表单
+手机号码错误时，控制台JS报错
+下拉选项默认为未选择
+
+
+
+window.location.href = '../order/toQueryOrder'
+
+
+http://192.168.0.122:8005/dowin-wchl-web/app/demo/pagelist
+
+
+
+小秘书
+DL1000107
+e10adc3949ba59abbe56e057f20f883e
+行销人员
+DL1000106
+e10adc3949ba59abbe56e057f20f883e
+
+
+e10adc3949ba59abbe56e057f20f883e
+
+
+DEBUG o.s.d.r.core.RedisConnectionUtils - Opening RedisConnection
+
